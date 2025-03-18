@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    height:100%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.font1{
+    font-family: 'Noto Sans JP',sans-serif;
+    text-align: left;
+}
+.para1{
+    font-size: 1.2em;
+    text-align: left;
+    font-weight:800;
+}
+.whole{
+    height:1040px;
+    width: 840px;
+    background-image: url(bgdesktop1.png);
+    background-color: #FDF9F6;
+    background-size:cover;
+    position:relative;
+    margin-top: 10px;
+    border-radius: 10px;
+    overflow: clip;
+}
+.image1{
+    position:absolute;
+    height:25%;
+    width:20%;
+    right:0%;
+    top:-2%;
+}
+.div1{
+    height:30%;
+    width: 60%;
+    position: absolute;
+    right: 30%;
+    top: 2%;
+}
+.para2{
+    font-size:3em;
+    font-weight:800;
+    padding-top:15%;
+    line-height: 4.5vh;
+}
+.para3{
+    font-size:0.7em;
+    font-weight: 600;
+    margin-top: 5%;
+    line-height: 2vh;
+}
+.div2{
+    height: 30%;
+    width: 80%;
+    position: absolute;
+    background-color: #171926;
+    top: 47%;
+    left: 10%;
+    border-radius: 17px;
+}
+.image2{
+    height:77%;
+    width:23%;
+    margin-right: 20%;
+}
+.image3{
+    position:absolute;
+    height: 114%;
+    width: 25%;
+    top:-37%;
+    left: 10%;
+}
+.div4{
+    position: absolute;
+    height:107%;
+    width: 37%;
+    background-color: #FA7353;
+    right:17%;
+    top: 20%;
+    border-radius: 10px;
+    padding:3%;
+}
+.color{
+    color: #FFF;
+}
+.para4{
+    font-size: 1.3em;
+    font-weight: 800;
+}
+.para5{
+    font-size:2em;
+    font-weight: 700;
+}
+.div5{
+    height:11%;
+    width: 94%;
+    background-color: black;
+    margin-top: 4%;
+    border-radius: 7px;
+}
+.div6{
+    height: 11%;
+     border-radius: 7px;
+    width: 94%;
+    background-color: #FFF;
+    margin-top: 4%;
+}
+.divlast{
+    height:7%;
+    width: 90%;
+    position: absolute;
+    top: 90%;
+    left:10%;
+    display: flex;
+    align-items: space-between;
+}
+.para6{
+    font-size:0.7em;
+    font-weight: 500;
+}
+.div7{
+    height: 100%;
+    width: 20%;
+}
+.div8{
+    height: 100%;
+    width: 60%;
+}
+.image4{
+    position: absolute;
+    left:27%;
+    height: 5%;
+    width: 5%;
+    top:71.5%;
+}
+.para7{
+     font-size: .7em;
+     font-weight:800;
+     padding-top: 3%;
+}
+.image5{
+    position: absolute;
+    left:22%;
+    height: 5%;
+    width: 5%;
+    top:84%;
+}
+.center{
+    text-align:center;
+}
+.inimage{
+    margin-top:7%;margin-right:50%;
+}
+.top1{
+    margin-top:5%;
+}
+.top2{
+    margin-top:1.5%;
+}
